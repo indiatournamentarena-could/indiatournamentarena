@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://indiatournamentarena-could.github.io/indiatournamentarena/sitemap.xml
